@@ -2,7 +2,7 @@
 Solutions to Before Session problems for Week2 (Hashing and Linked Lists)
 
 Hashing Problems:
-  * [Colorful Number](ColorfulNumber.swift) (Category: Hash Search)
+  * [Colorful Number](colorfulNumber.swift) (Category: Hash Search)
   * [Anagrams](Anagrams.swift) (Category: Key Formation)
   
 Linked Lists
